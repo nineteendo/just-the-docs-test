@@ -109,7 +109,7 @@ back_to_top: true
 back_to_top_text: Back to top
 
 # Footer last updated timestamp
-last_updated: true # show or hide edit time
+last_edit_timestamp: true # show or hide edit time
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
